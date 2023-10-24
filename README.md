@@ -5,8 +5,9 @@
 
 if the dream is won but everything is lost, if the moment of glory is over before it even began. We will pay the price but we shall not count the cost
 
--Passion and Pride in what I do
--Always love a challenge
+- Passion and Pride in what I do!
+- Always love a challenge!
+- Positive Mindset and Consistency
 
 
 First, conquer the mountain within your mind, all others will follow
