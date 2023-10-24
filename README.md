@@ -1,6 +1,6 @@
 ### Steady://Chilling
 
-<picture> <img align="right" src="https://media.tenor.com/en69XVkSCFoAAAAd/brook-one.gif" width = 250px></picture>
+<picture> <img align="center" src="https://media.tenor.com/en69XVkSCFoAAAAd/brook-one.gif" width = 400px></picture>
 
 ## **About me**
 
