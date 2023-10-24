@@ -1,12 +1,19 @@
 ### Steady://Chilling
 
 
+## **About me**
+
+if the dream is won but everything is lost, if the moment of glory is over before it even began. We will pay the price but we shall not count the cost
+
+-Passion and Pride in what I do
+-Always love a challenge
 
 
+First, conquer the mountain within your mind, all others will follow
 
+<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,nodejs,nextjs,postgres,androidstudio,redis,redux)](https://skillicons.dev)
-
-
+<br>
 <a href='https://www.linkedin.com/in/keegan-beuthin-545a6b135/' target="_blank">
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
 </a>
