@@ -13,6 +13,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ## "First, conquer the mountain within your mind, all others will follow"
 
+<picture> <img align="center" src="https://giffiles.alphacoders.com/218/218671.gif" width = 400px></picture>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,nodejs,nextjs,postgres,androidstudio,redis,redux)](https://skillicons.dev)
 
