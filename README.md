@@ -14,7 +14,7 @@
 
 <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,nodejs,nextjs,postgres,androidstudio,redis,redux)](https://skillicons.dev)
-<br>
+
 <a href='https://www.linkedin.com/in/keegan-beuthin-545a6b135/' target="_blank">
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
 </a>
