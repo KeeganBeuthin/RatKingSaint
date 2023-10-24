@@ -10,7 +10,7 @@
 - Positive Mindset and Consistency
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-"First, conquer the mountain within your mind, all others will follow"
+## "First, conquer the mountain within your mind, all others will follow"
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,nodejs,nextjs,postgres,androidstudio,redis,redux)](https://skillicons.dev)
