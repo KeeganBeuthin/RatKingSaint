@@ -18,7 +18,7 @@
 
 <picture> <img align="center" src="https://giffiles.alphacoders.com/218/218671.gif" width = 400px></picture>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,nodejs,nextjs,postgres,androidstudio,redis,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,nodejs,nextjs,androidstudio,redis,postgres,redux,docker)](https://skillicons.dev)
 
 
 
